@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: coilock/ots
+  IMAGE_NAME: ots
 
 jobs:
   # Run tests.
