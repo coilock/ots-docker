@@ -1,1 +1,1 @@
-opentimestamps-client == 0.7.0
+opentimestamps-client == 0.7.1
